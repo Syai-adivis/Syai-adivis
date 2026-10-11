@@ -1,16 +1,19 @@
 ## Hi there 👋
-
+I'm Syai(Gy`i tonnc*en)
 <!--
-**Syai-adivis/Syai-adivis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Qt Fremwork.
+- 💬 Ask me about `nullptr`
+- 📫 How to reach me: `nullptr`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: {
+    Since I knew Python supports big integers:
+    ```
+    PS C:\Users\lenovo> PYTHON
+    Python 3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)] on win32
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 9**9**9**9**9**9**9
+    ... ...
+    ```
+    ( \(9^{9^{9^{9^{9^{9^9}}}}}\) )
+  }
 -->
