@@ -1,6 +1,5 @@
 ## Hi there 👋
 I'm Syai(Gy`i tonnc*en)
-<!--
 - 🌱 I’m currently learning Qt Fremwork.
 - 💬 Ask me about `nullptr`
 - 📫 How to reach me: `nullptr`
@@ -16,4 +15,3 @@ I'm Syai(Gy`i tonnc*en)
     ```
     ( \(9^{9^{9^{9^{9^{9^9}}}}}\) )
   }
--->
