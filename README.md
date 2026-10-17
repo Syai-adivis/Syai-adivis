@@ -4,7 +4,7 @@ I'm Syai(Gy`i tonnc*en)
 - 💬 Ask me about `nullptr`
 - 📫 How to reach me: `nullptr`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: {<br>
+- ⚡ Fun fact: <br>
     Since I knew Python supports big integers:
     ```
     PS C:\Users\lenovo> PYTHON
@@ -13,4 +13,3 @@ I'm Syai(Gy`i tonnc*en)
     >>> 9**9**9**9**9**9**9
     ... ...
     ```
-  }
