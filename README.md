@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Syai(Gy`i tonnc*en)
-- 🌱 I’m currently learning Qt Framework.
+- 🌱 I’m currently learning Qt Framework and reading _Build Your Own Programming Language_.
 - 💬 Ask me about `nullptr`
 - 📫 How to reach me: `nullptr`
 - 😄 Pronouns: he/him
@@ -13,5 +13,5 @@ I'm Syai(Gy`i tonnc*en)
     >>> 9**9**9**9**9**9**9
     ... ...
     ```
-- 🗿 Conlang
+- 🗿 Conlang: <br>
     I'm a casual conlanger,you can look my conlang `Veya`'s Swadish word table in repository Syai-adivis.
