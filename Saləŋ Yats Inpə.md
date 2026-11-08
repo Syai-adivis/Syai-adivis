@@ -1,18 +1,18 @@
 ## Saləŋ Saɪшo Yats(SSY) Inpə
 
-### 字母
+### Alphabet
 Aa、Ee、Əə、Iɪ、Oo、Uu、Ãã、Üü、Õõ、Pp、Bb、Tt、Dd、Kk、Gg、Ff、Vv、Ss、Zz、Шш、3ʒ、Rr、Hh、Mm、Nn、Πŋ、Ll、Jj、Yy、Cɕ
 
-### 纯拉丁转写
+### Latin transcription
 Aa=Aa	Ee=Eheh	Əə=Ee	Iɪ=Ii	Oo=Oo	Uu=Uu	Ãã=Ae ae
 Üü=Y y 	Pp=Pp	Bb=Bb
 Tt=Tt	Dd=Dd	Kk=Kk	Gg=Gg	Ff=Ff	Vv=Vv	Ss=Ss
 Zz=Zz	Шш=Sh sh	3ʒ=Zh zh	Rr=Rr	Hh=Hh	Mm=Mm		Nn=Nn
 Πŋ=Ng ng	Ll=Ll		Jj=Jj		Yy=Ii		Cɕ=Xx
 
-### 发音
+### Pronounclation
 
-1. 元音<br>
+1. Vowels<br>
     Aa /a/<br>
     Ee /e/<br>
     Əə /ə//ɤ/<br>
@@ -23,7 +23,7 @@ Zz=Zz	Шш=Sh sh	3ʒ=Zh zh	Rr=Rr	Hh=Hh	Mm=Mm		Nn=Nn
     Üü /y/<br>
     Õõ /ø/<br>
 
-2. 辅音<br>
+2. Consonants<br>
     Pp /f/　Bb /v̥/　Tt /t/　Dd /t/　Kk /h/　Gg /k/<br>
     Ff /f/　Vv /w//f/　Ss /s/　Zz /z/<br>
     Шш /ʂ/<br>
@@ -34,7 +34,7 @@ Zz=Zz	Шш=Sh sh	3ʒ=Zh zh	Rr=Rr	Hh=Hh	Mm=Mm		Nn=Nn
     Ll /l/　Jj /tɕ/<br>
     Yy /i//j/<br>
     Cɕ /ɕ/<br>
-3. 规则（部分）
-    l在后无元音时读Dark L
-    r在前有元音且后无元音时不发音，使前方元音卷舌化
-    v在后无元音时读/f/
+3. Some Pronounclation Rules
+    l is realized as dark l in pre-consonantal and word-final positions (i.e., when no vowel follows).
+    r is silent when it occurs post-vocalically and is not followed by a vowel, and it r-colours the preceding vowel.
+    v is devoiced to /f/ when no vowel follows.
