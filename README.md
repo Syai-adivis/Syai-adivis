@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Syai(Gy`i tonnc*en)
+I'm Syai(Ji DongChen)
 - 🌱 I’m currently learning Qt Framework and reading _Build Your Own Programming Language_.
 - 💬 Ask me about `nullptr`
 - 📫 How to reach me: `nullptr`
