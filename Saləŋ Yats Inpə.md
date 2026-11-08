@@ -35,6 +35,6 @@ Zz=Zz	Шш=Sh sh	3ʒ=Zh zh	Rr=Rr	Hh=Hh	Mm=Mm		Nn=Nn
     Yy /i//j/<br>
     Cɕ /ɕ/<br>
 3. Some Pronounclation Rules
-    l is realized as dark l in pre-consonantal and word-final positions (i.e., when no vowel follows).
-    r is silent when it occurs post-vocalically and is not followed by a vowel, and it r-colours the preceding vowel.
-    v is devoiced to /f/ when no vowel follows.
+    l is realized as dark l in pre-consonantal and word-final positions (i.e., when no vowel follows).<br>
+    r is silent when it occurs post-vocalically and is not followed by a vowel, and it r-colours the preceding vowel.<br>
+    v is devoiced to /f/ when no vowel follows.<br>
